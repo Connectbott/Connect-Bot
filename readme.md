@@ -5,6 +5,7 @@ Connect-bot es un robot que compite contra ti en el mítico juego de mesa Connec
 
 En este repositorio se explica como reproducir nuestro robot Connect-Bot paso a paso de manera detallada y se proporciona el material necesario para llevar a cabo dicha tarea:
 
+- Manual de instrucciones.
 - STLs de las partes 3D necesarias.
 - Código necesario.
 - Esquema de conexiones.
