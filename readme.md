@@ -12,9 +12,9 @@ En este repositorio se explica como reproducir nuestro robot Connect-Bot paso a 
 
 
 ## Autores
-Eric Lozano
-Cosmina Ioana Nicu
-Antoni Rodríguez
+Eric Lozano <br />
+Cosmina Ioana Nicu <br />
+Antoni Rodríguez <br />
 Miquel Martín
 
 
