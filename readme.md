@@ -11,14 +11,19 @@ En este repositorio se explica como reproducir nuestro robot Connect-Bot paso a 
 
 
 
-
+## Autores
+Eric Lozano <br />
+Cosmina Ioana Nicu <br />
+Antoni Rodríguez <br />
+Miquel Martín
 
 
 ## Links
-Instalar OpenCV en Raspberry Pi:
+Video del robot en funcionamiento:<br />
+https://vimeo.com/338985197
 
+Instalar OpenCV en Raspberry Pi:<br />
 https://pysource.com/2018/10/31/raspberry-pi-3-and-opencv-3-installation-tutorial/
 
-Tutorial LCD:
-
+Tutorial LCD:<br />
 http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
