@@ -19,11 +19,11 @@ Miquel Martín
 
 
 ## Links
-Video del robot en funcionamiento:
+Video del robot en funcionamiento:<br />
 https://vimeo.com/338985197
 
-Instalar OpenCV en Raspberry Pi:
+Instalar OpenCV en Raspberry Pi:<br />
 https://pysource.com/2018/10/31/raspberry-pi-3-and-opencv-3-installation-tutorial/
 
-Tutorial LCD:
+Tutorial LCD:<br />
 http://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
