@@ -1,7 +1,8 @@
 # Connect-Bot
 Connect-bot es un robot que compite contra ti en el mítico juego de mesa Connect-4. Consta de hasta 3 niveles distintos de dificultad y un algoritmo que proporciona todo un reto. Además, se comunica contigo a través de mensajes mostrados en su pantalla y tiene una personalidad un tanto "traviesa".
 
-                                      <img src="./images/connectbot.jpg" width="300" center>
+<div style="text-align:center"><img src="./images/connectbot.jpg" width="300" /></div>
+
 
 En este repositorio se explica como reproducir nuestro robot Connect-Bot paso a paso de manera detallada y se proporciona el material necesario para llevar a cabo dicha tarea:
 
