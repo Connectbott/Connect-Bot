@@ -11,7 +11,11 @@ En este repositorio se explica como reproducir nuestro robot Connect-Bot paso a 
 
 
 
-
+## Autores
+Eric Lozano
+Cosmina Ioana Nicu
+Antoni Rodríguez
+Miquel Martín
 
 
 ## Links
